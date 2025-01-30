@@ -1,0 +1,90 @@
+{
+  "expense": [
+    {
+      "amount": 100,
+      "date": "2023-11-20",
+      "desc": "dinner",
+      "label": "entertainment"
+    },
+    {
+      "amount": 100,
+      "date": "2023-11-20",
+      "desc": "dinner",
+      "label": "entertainment"
+    },
+    {
+      "amount": 100,
+      "date": "2023-11-20",
+      "desc": "dinner",
+      "label": "entertainment"
+    },
+    {
+      "amount": 100,
+      "date": "2023-11-20",
+      "desc": "dinner",
+      "label": "entertainment"
+    },
+    {
+      "amount": 100,
+      "date": "2023-11-20",
+      "desc": "dinner",
+      "label": "entertainment"
+    },
+    {
+      "amount": 100,
+      "date": "2023-11-20",
+      "desc": "dinner",
+      "label": "entertainment"
+    },
+    {
+      "amount": 100,
+      "date": "2023-11-20",
+      "desc": "dinner",
+      "label": "entertainment"
+    },
+    {
+      "amount": 100,
+      "date": "2023-11-21",
+      "desc": "dinner",
+      "label": "entertainment"
+    }
+  ],
+  "income": [
+    {
+      "amount": 100,
+      "date": "2023-11-20",
+      "desc": "wage",
+      "label": "salary income"
+    },
+    {
+      "amount": 100,
+      "date": "2023-11-20",
+      "desc": "wage",
+      "label": "salary income"
+    },
+    {
+      "amount": 100,
+      "date": "2023-11-20",
+      "desc": "wage",
+      "label": "salary income"
+    },
+    {
+      "amount": 100,
+      "date": "2023-11-20",
+      "desc": "wage",
+      "label": "salary income"
+    },
+    {
+      "amount": 100,
+      "date": "2023-11-20",
+      "desc": "wage",
+      "label": "salary income"
+    },
+    {
+      "amount": 100,
+      "date": "2023-11-21",
+      "desc": "wage",
+      "label": "salary income"
+    }
+  ]
+}
